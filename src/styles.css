@@ -1,0 +1,252 @@
+body {
+  background-color: rgb(235, 232, 253);
+}
+
+hr {
+  background-color: rgb(219, 219, 219);
+  height: 1px;
+  border: 0;
+}
+
+.table-row {
+  border-radius: 0 0 10px 10px;
+  border-color: grey;
+}
+
+.table {
+  width: 70vw;
+  background-color: white;
+  border-radius: 0 0 10px 10px;
+  border-color: grey;
+  margin: auto;
+}
+
+.border-right {
+  border-right: 3px solid rgb(235, 232, 253);
+}
+
+.data-table-settings-header {
+  margin-left: 1vw;
+  margin-top: 1.5vh;
+  padding-bottom: 1.5vh;
+  font-size: 0.8em;
+}
+
+.data-table-settings-header span {
+  font-weight: bold;
+}
+
+.data-table-settings-date-popover {
+  margin-left: 2vw;
+  margin-top: 1.5vh;
+  padding-bottom: 1.5vh;
+  font-size: 0.8em;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.data-table-settings-date-popover span {
+  padding: 1vw 0 0 1vw;
+  margin-bottom: 0;
+  color: grey;
+  font-size: 0.8em;
+}
+
+.data-table-dimensions-popover {
+  margin-left: 1vw;
+  margin-top: 1.5vh;
+  padding-bottom: 1.5vh;
+  font-size: 0.8em;
+  text-decoration: none;
+  color: black;
+}
+
+.data-table-dimensions-popover-heading {
+  padding: 1vw 0 0 1vw;
+  margin-bottom: 0;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.table-container {
+  height: 100%;
+  width: 85vw;
+  border-radius: 0 0 10px 10px;
+  border-color: grey;
+  overflow-y: scroll;
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.table-container::-webkit-scrollbar {
+  display: none;
+}
+
+.App {
+  margin: auto;
+}
+
+.dimensions-filter-list-item {
+  height: 4vh;
+}
+
+.date-popover {
+  width: 230px;
+}
+
+.item {
+  height: 7.7vh;
+  margin: 0;
+  width: 100%;
+  border: 1px solid rgb(168, 168, 168);
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.item:hover {
+  background-color: rgb(213, 209, 255);
+}
+
+.dropdown-arrow-icon {
+  transform: translate(0, 0.5vh);
+}
+
+#data-table-settings-grid {
+  width: 85vw;
+}
+
+#data-table-settings-chart-icon-container-grid {
+  position: absolute;
+  right: 6vw;
+  width: 2vw;
+}
+
+#data-table-settings-chart-icon {
+  border: 1px solid lightgrey;
+}
+
+#data-table-settings-chart-icon:hover {
+  background-color: rgb(131, 135, 194);
+}
+
+#data-chart-modal {
+  width: 100vw;
+  height: 100vh;
+  border: "2px solid #000";
+}
+
+#data-chart {
+  background-color: rgb(243, 243, 243);
+  width: 1440px;
+  margin: auto;
+}
+
+#traffic-source-dimensions-header {
+  background-color: rgb(244, 243, 253);
+  padding: 1vh;
+}
+
+#traffic-source-dimensions-header span {
+  font-size: small;
+  padding: 1vw;
+}
+
+#traffic-source-dimensions-list {
+  height: 40vh;
+  background-color: rgb(255, 255, 255);
+  width: 13vw;
+  margin: auto;
+  overflow-y: scroll;
+}
+
+#traffic-source-dimensions-list-container {
+  background-color: rgb(244, 243, 253);
+  width: 15vw;
+  height: 41vh;
+}
+
+#all-data-row {
+  background-color: rgb(244, 243, 253);
+}
+
+#data-table-settings {
+  width: 85vw;
+  background-color: white;
+  border-radius: 10px 10px 0 0;
+  border-color: grey;
+  margin-left: 9.5%;
+}
+
+#data-table-container {
+  width: 85vw;
+  height: 60vh;
+  margin-left: 9.5%;
+}
+
+#table-head {
+  background-color: rgb(244, 243, 253);
+}
+
+#data-table-settings-title {
+  padding: 1vw 0 0 1vw;
+  margin-bottom: 0;
+  color: grey;
+}
+
+#row-count {
+  padding: 1vw 0 0 1vw;
+  margin-bottom: 0;
+  color: grey;
+  font-size: 0.7em;
+  text-decoration: none;
+}
+
+#date-select {
+  width: 100px;
+  margin-right: 5vw;
+  padding: 5px;
+}
+
+#sortable-items-container {
+  height: 100%;
+  width: 20vw;
+  background-color: rgb(244, 243, 253);
+}
+
+#items-list-container {
+  width: 21vw;
+}
+
+#items-list-container div {
+  padding: 0;
+}
+
+#list-drag-handle {
+  color: grey;
+}
+
+#search-popover {
+  width: 100%;
+  margin: 1vh 1vw;
+}
+
+#search-popover-input {
+  width: 38vw;
+  height: 2vh;
+}
+
+#popover-content-grid {
+  width: 42vw;
+  height: 30vh;
+  overflow: hidden;
+}
+
+#popover-metrics-content-grid {
+  width: 42vw;
+  height: 38vh;
+  overflow: hidden;
+}

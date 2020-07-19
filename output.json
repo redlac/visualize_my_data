@@ -1,0 +1,236 @@
+[
+  {
+    "Media Type": "Media Type",
+    "Traffic Source": "Traffic Source",
+    "Geo": "Geo",
+    "Cost": "Cost",
+    "Impressions": "Impressions",
+    "Clicks": "Clicks",
+    "Conversions": "Conversions"
+  },
+  {
+    "Media Type": "Digital",
+    "Traffic Source": "Google Analytics",
+    "Geo": "Canada",
+    "Cost": " $3,453.00 ",
+    "Impressions": "123948",
+    "Clicks": "28508",
+    "Conversions": "23%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Google Ads",
+    "Geo": "USA",
+    "Cost": " $252,354.00 ",
+    "Impressions": "432223",
+    "Clicks": "185856",
+    "Conversions": "43%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Facebook Pages",
+    "Geo": "USA",
+    "Cost": " $645.00 ",
+    "Impressions": "22085",
+    "Clicks": "12368",
+    "Conversions": "56%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Facebook Ads",
+    "Geo": "USA",
+    "Cost": " $67,689.00 ",
+    "Impressions": "457976",
+    "Clicks": "403019",
+    "Conversions": "88%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Youtube",
+    "Geo": "Korea",
+    "Cost": " $243,543.00 ",
+    "Impressions": "43234",
+    "Clicks": "1729",
+    "Conversions": "4%"
+  },
+  {
+    "Media Type": "Digital",
+    "Traffic Source": "Snapchat",
+    "Geo": "Canada",
+    "Cost": " $51,204.08 ",
+    "Impressions": "34578",
+    "Clicks": "692",
+    "Conversions": "2%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "LinkedIn",
+    "Geo": "UK",
+    "Cost": " $12,346.00 ",
+    "Impressions": "43909",
+    "Clicks": "10099",
+    "Conversions": "23%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "Twitter",
+    "Geo": "USA",
+    "Cost": " $448.00 ",
+    "Impressions": "4445221",
+    "Clicks": "3378368",
+    "Conversions": "76%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "TikTok",
+    "Geo": "UK",
+    "Cost": " $239,405.00 ",
+    "Impressions": "8403972",
+    "Clicks": "252119",
+    "Conversions": "3%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Bing",
+    "Geo": "Australia",
+    "Cost": " $4,590.00 ",
+    "Impressions": "44902",
+    "Clicks": "15267",
+    "Conversions": "34%"
+  },
+  {
+    "Media Type": "Digital",
+    "Traffic Source": "AdRoll",
+    "Geo": "China",
+    "Cost": " $39,284.00 ",
+    "Impressions": "789087",
+    "Clicks": "441889",
+    "Conversions": "56%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Aggregate",
+    "Geo": "China",
+    "Cost": " $30,890.00 ",
+    "Impressions": "456568",
+    "Clicks": "31960",
+    "Conversions": "7%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "CRM",
+    "Geo": "Canada",
+    "Cost": " $51,935.13 ",
+    "Impressions": "124049",
+    "Clicks": "9924",
+    "Conversions": "8%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Custom 1",
+    "Geo": "Egypt",
+    "Cost": " $78,789.00 ",
+    "Impressions": "2074105",
+    "Clicks": "186669",
+    "Conversions": "9%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "Custom 2",
+    "Geo": "Canada",
+    "Cost": " $50,473.02 ",
+    "Impressions": "2200936",
+    "Clicks": "198084",
+    "Conversions": "9%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "Twitter",
+    "Geo": "Lebanon",
+    "Cost": " $49,741.96 ",
+    "Impressions": "2327767",
+    "Clicks": "1000940",
+    "Conversions": "43%"
+  },
+  {
+    "Media Type": "Banner",
+    "Traffic Source": "Facebook Ads",
+    "Geo": "USA",
+    "Cost": " $49,010.90 ",
+    "Impressions": "24545",
+    "Clicks": "13500",
+    "Conversions": "55%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Facebook Ads",
+    "Geo": "Koera",
+    "Cost": " $48,279.85 ",
+    "Impressions": "754324",
+    "Clicks": "67889",
+    "Conversions": "9%"
+  },
+  {
+    "Media Type": "Digital",
+    "Traffic Source": "Bing",
+    "Geo": "Germany",
+    "Cost": " $47,548.79 ",
+    "Impressions": "35867",
+    "Clicks": "23314",
+    "Conversions": "65%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Google Ads",
+    "Geo": "Japan",
+    "Cost": " $46,817.73 ",
+    "Impressions": "423536",
+    "Clicks": "190591",
+    "Conversions": "45%"
+  },
+  {
+    "Media Type": "Display",
+    "Traffic Source": "Google Analytics",
+    "Geo": "Sweden",
+    "Cost": " $46,086.68 ",
+    "Impressions": "4596192",
+    "Clicks": "1286934",
+    "Conversions": "28%"
+  },
+  {
+    "Media Type": "Digital",
+    "Traffic Source": "Youtube",
+    "Geo": "UAE",
+    "Cost": " $45,355.62 ",
+    "Impressions": "347786",
+    "Clicks": "264317",
+    "Conversions": "76%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Google Ads",
+    "Geo": "Qatar",
+    "Cost": " $44,624.56 ",
+    "Impressions": "23457876",
+    "Clicks": "10556044",
+    "Conversions": "45%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Google Ads",
+    "Geo": "Canada",
+    "Cost": " $43,893.50 ",
+    "Impressions": "1221235",
+    "Clicks": "293096",
+    "Conversions": "24%"
+  },
+  {
+    "Media Type": "Print",
+    "Traffic Source": "Snapchat",
+    "Geo": "Canada",
+    "Cost": " $43,162.45 ",
+    "Impressions": "23564",
+    "Clicks": "7305",
+    "Conversions": "31%"
+  }
+]
